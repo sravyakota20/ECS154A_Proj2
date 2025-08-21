@@ -5,6 +5,7 @@ Student 2: Sravya Kota (919987625)
 
 ## Project Status
 Aug 21st 8:00 am - partially finished panel have to still workout on output V
+Aug 21st 9:40 am - Finished Panel
 
 ## Known Issues
 The project fails to function properly in ...
