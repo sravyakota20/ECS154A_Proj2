@@ -4,7 +4,7 @@ Student 1: Full Name 1 (123456789)
 Student 2: Sravya Kota (919987625)
 
 ## Project Status
-This the current status of the project ...
+Aug 21st 8:00 am - partially finished panel have to still workout on output V
 
 ## Known Issues
 The project fails to function properly in ...
