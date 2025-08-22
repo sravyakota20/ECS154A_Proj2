@@ -6,7 +6,8 @@
 ## Project Status
 * Aug 21st 8:00 am - partially finished panel have to still workout on output V
 * Aug 21st 9:40 am - Finished Panel
-* Aug 21st 1:20 pm - Finished Input Buffer 
+* Aug 21st 1:20 pm - Finished Input Buffer
+* Aug 21st 10:40 pm - Completed Part 3 halfway through
 
 ## Known Issues
 The project fails to function properly in ...
