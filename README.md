@@ -8,6 +8,7 @@
 * Aug 21st 9:40 am - Finished Panel
 * Aug 21st 1:20 pm - Finished Input Buffer
 * Aug 21st 10:40 pm - Completed Part 3 halfway through
+* Aug 22nd 9:50 am - Made some more progress on part 3 but still not done 
 
 ## Known Issues
 The project fails to function properly in ...
